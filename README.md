@@ -1,1 +1,3 @@
-<h2> 3-to-8 Decoder</h2>
+<h2> 3-to-8 Decoder
+ <img src="chipppdecod">
+
